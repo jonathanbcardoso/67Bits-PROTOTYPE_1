@@ -6,17 +6,15 @@ Game Mechanics:
 
 Features 
 - FPS Options (15,30,60).
-- Shop using gold: 
-		- Buy levels to increase your body collection capacity.
-		- Buy punch power to send enemies flying farther.
-		- Buy skins to change character colors (4 available).
+- Shop using gold:
+  - Buy levels to increase your body collection capacity.
+  - Buy punch power to send enemies flying farther.
+  - Buy skins to change character colors (4 available).
 - High responsiveness to inputs.
 - Responsive UI using unity canvas.
-
 
 //Android Build Here:
 https://drive.google.com/file/d/1E2Nba3LJjNGfFDiAEAJA7sD0ZR-ADsKK/view
 
 //Video Presentation-EN: 
 https://youtu.be/yB2TYiMGd1A
-
