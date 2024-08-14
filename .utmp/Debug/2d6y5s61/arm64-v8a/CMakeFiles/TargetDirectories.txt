@@ -1,0 +1,5 @@
+D:/Personal-Files/Unity-Projects/67 Bits -  Gym Beast (Prototype)/.utmp/Debug/2d6y5s61/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Personal-Files/Unity-Projects/67 Bits -  Gym Beast (Prototype)/.utmp/Debug/2d6y5s61/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Personal-Files/Unity-Projects/67 Bits -  Gym Beast (Prototype)/.utmp/Debug/2d6y5s61/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/Personal-Files/Unity-Projects/67 Bits -  Gym Beast (Prototype)/.utmp/Debug/2d6y5s61/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/Personal-Files/Unity-Projects/67 Bits -  Gym Beast (Prototype)/.utmp/Debug/2d6y5s61/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
